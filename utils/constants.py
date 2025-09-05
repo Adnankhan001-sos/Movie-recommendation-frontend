@@ -2,8 +2,8 @@
 Constants and configuration for the movie recommendation app
 """
 
-# API Configuration
-API_BASE_URL = "http://localhost:8000/api"
+# API Configuration - Updated for Render deployment
+API_BASE_URL = "https://movie-recommendation-backend-2-fur6.onrender.com/api"
 
 # Genre Icons and Colors
 GENRE_CONFIG = {
