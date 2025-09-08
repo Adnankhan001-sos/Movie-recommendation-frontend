@@ -3,7 +3,7 @@ Constants and configuration for the movie recommendation app with TMDB
 """
 
 # API Configuration - Updated for deployed backend with TMDB
-API_BASE_URL = "http://localhost:8000/api"
+API_BASE_URL = "https://movie-recommendation-backend-2-fur6.onrender.com"
 
 # Enhanced Genre Configuration
 GENRE_CONFIG = {
