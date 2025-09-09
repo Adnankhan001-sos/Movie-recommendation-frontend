@@ -73,6 +73,8 @@ def main():
             Discover Amazing Movies with Real Posters & Reviews
         </p>
         <p style="font-size: 1rem; margin-top: 10px; opacity: 0.7;">
+            If not Loading use a VPN
+        <p style="font-size: 1rem; margin-top: 10px; opacity: 0.7;">
             Powered by The Movie Database (TMDB)
         </p>
     </div>
